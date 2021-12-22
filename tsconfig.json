@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+//    "module": "ES6",
+    "baseUrl": "src",
+    "target": "es5",
+    "lib": ["ES6", "DOM"],
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "jsx": "preserve"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
